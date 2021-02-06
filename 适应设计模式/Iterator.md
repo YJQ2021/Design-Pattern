@@ -78,6 +78,7 @@ public class BookShelfIterator implements Iterator {
 		return bookshelf.getBookAt(index++);
 	}
 }
+```
 * Book类和测试类
 ```java
 public class Book {
